@@ -28,7 +28,7 @@ You are required to watch films throughout the course. On canvas, you will find 
 Every week there is an assigned film, but you will have to present 3 charts in total during the semester. The contents can be found through the university library portal for free access, but they are also available in most streaming services. I will also suggest some additional material for your exploration throughout the course that might not be in the library, but that will be only recommended for you to further exploration.
 
 Here is the [link](https://libguides.rutgers.edu/c.php?g=336621&p=2266575) to a detailed guide on how to find your movies, documentaries, and other graphic materials.
-Follow the [rubric](Film_Rubric)
+Follow the [rubric](film_frame_rubric)
 
 
 Also, Swank and Kanopy are going to be the platform where most films are. Sign in with your Rutgers ID and connect to database . 
